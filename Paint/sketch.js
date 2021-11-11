@@ -60,10 +60,6 @@ function colorChange() {
     {
       currentColor = "violet";
     }
-    else if (mouseY > 450 && mouseY < 500) 
-    {
-    currentColor = "grey";
-  }
 }
 
 function drawing() {
